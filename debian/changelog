@@ -43,6 +43,12 @@ blueberry (1.2.6) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sun, 30 Jun 2019 17:55:33 +0200
 
+blueberry (1.2.5-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 08 Apr 2019 20:58:18 +0200
+
 blueberry (1.2.5) tessa; urgency=medium
 
   * l10n: Update translations
